@@ -2,6 +2,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
+import Basic.One;
+
 class One {
 
     void writeToFile(String fileName, String name) throws IOException {
