@@ -11,7 +11,7 @@ public class Union2Arr {
         int m = arr2.length;
 
         for(int i = 0; i<n; i++) {
-            set.add(arr1[1]);
+            set.add(arr1[i]);
         }
 
         for(int i = 0; i<m; i++) {
